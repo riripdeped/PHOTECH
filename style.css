@@ -74,7 +74,7 @@ header.sticky {
 
 /* Logo Styles */
 .navbar .logo {
-    margin-top: -20px;
+    margin-top: 0px;
 }
 .main-logo {
     cursor: url('assets/2cursor.png') 16 16, pointer;
@@ -1385,4 +1385,5 @@ header.sticky .main-logo {
     .customer-info-container .form-grid {
         grid-template-columns: 1fr;
     }
+
 }
